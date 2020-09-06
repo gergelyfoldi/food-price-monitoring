@@ -8,7 +8,7 @@ In Version 1.0, you can analyse the consumer price changes of different food pro
 Basically, I wanted to create a highly interactive data visualization application to discover a very interesting food-related dataset.
 
 ## Technical details
-Software used: Power BI (2020 May version)
+Software used: Microsoft Power BI (2020 May version)
 
 Source data: [Eurostat - Food Price Monitoring](https://ec.europa.eu/eurostat/web/experimental-statistics/food-price-monitoring)
 
