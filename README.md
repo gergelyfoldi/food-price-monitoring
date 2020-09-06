@@ -1,7 +1,5 @@
 # Food Price Monitoring Dashboard
 
-![](https://github.com/gergelyfoldi/food-price-monitoring/blob/master/FPM_heatmap_screen.PNG)
-
 You can acess the dashboard [>> here <<](https://app.powerbi.com/view?r=eyJrIjoiZGFjYmYzMGEtOTkwZi00MDFjLTgyNGYtYzdmZWFiMGQ4NWM5IiwidCI6IjRhNTQxZWMwLWQ4MWEtNGJiNS05ODNiLWU0MjI0ODY0YTlmNiIsImMiOjl9&pageName=ReportSection6de845fe31163ed2af2c)
 
 ## What is the purpose of the dashboard?
