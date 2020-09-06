@@ -2,6 +2,8 @@
 
 You can acess the dashboard [>> here <<](https://app.powerbi.com/view?r=eyJrIjoiZGFjYmYzMGEtOTkwZi00MDFjLTgyNGYtYzdmZWFiMGQ4NWM5IiwidCI6IjRhNTQxZWMwLWQ4MWEtNGJiNS05ODNiLWU0MjI0ODY0YTlmNiIsImMiOjl9&pageName=ReportSection6de845fe31163ed2af2c)
 
+![Screenshoot](https://github.com/gergelyfoldi/food-price-monitoring/blob/master/FPM_heatmap_screen.png?raw=true)
+
 ## What is the purpose of the dashboard?
 In Version 1.0, you can analyse the consumer price changes of different food product categories in the European Union from January of 2016 to June of 2020. (Based on the calculated index where 2015=100.)
 
