@@ -12,6 +12,6 @@ Software used: Power BI (2020 May version)
 Source data: [Eurostat - Food Price Monitoring](https://ec.europa.eu/eurostat/web/experimental-statistics/food-price-monitoring)
 *You can find the Power BI Desktop file in the repository for more technical details.*
 
-## Feedback & Contribution
+## Feedback & Collaboration
 If you have any advice on the dashboard from a domain or technical perspective, please contact me!
 hello@gergelyfoldi.com
